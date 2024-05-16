@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85779195975",
+    "project_id": "kcbaby-7a088",
+    "storage_bucket": "kcbaby-7a088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85779195975:android:9cf6191bb4595491116962",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD4abcEPSXLYzUGCKOL0UDETrJUxU0wTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
